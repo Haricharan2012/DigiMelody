@@ -131,8 +131,7 @@ Designed to run on low-end systems and portable devices.
 ## 👨‍💻 Author
 
 **R. Haricharan**  
-📚 MCA Candidate – BMS College of Engineering  
-📬 [Optional: insert contact or GitHub profile link]
+
 
 ---
 
@@ -147,6 +146,6 @@ Designed to run on low-end systems and portable devices.
 
 ---
 
-## 📷 Screenshots / Demos (To Be Added)
-Add screenshots or videos of your interface once available.
+## 📷 Screenshots / Demos 
+
 https://github.com/user-attachments/assets/dda44bdb-836e-4e87-9b6c-a92beb0b8e9e
