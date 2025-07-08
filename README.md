@@ -149,3 +149,4 @@ Designed to run on low-end systems and portable devices.
 
 ## 📷 Screenshots / Demos (To Be Added)
 Add screenshots or videos of your interface once available.
+https://github.com/user-attachments/assets/dda44bdb-836e-4e87-9b6c-a92beb0b8e9e
